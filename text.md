@@ -1,5 +1,7 @@
 別に研究してるわけでもないので自分が感じていることだけ。間違ってたらTwitterのリプかなんかで言ってくれれば直すし、GitHubでプルリクもOK。
 
+[https://github.com/ushironoko/score-milli-doc:embed:cite]
+
 それから旧フェス限（紬、歌織）と特化限定を比べた時の差の情報も欲しい。わかる人教えて。
 
 ## スキルについて
